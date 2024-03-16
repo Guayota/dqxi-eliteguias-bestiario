@@ -1,0 +1,15 @@
+[package]
+name = "dqxi-eliteguias-bestiario"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = "0.11.14"
+scraper = "0.16.0"
+select = "0.6.0"
+tokio = { version = "1.27.0", features = ["macros", "rt-multi-thread"] }
+
+[profile.release]
+opt-level = 3

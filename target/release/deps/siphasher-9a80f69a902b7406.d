@@ -1,0 +1,9 @@
+/home/guayota/CodingShit/bestiario/target/release/deps/siphasher-9a80f69a902b7406.rmeta: /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/lib.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/sip.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/sip128.rs
+
+/home/guayota/CodingShit/bestiario/target/release/deps/libsiphasher-9a80f69a902b7406.rlib: /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/lib.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/sip.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/sip128.rs
+
+/home/guayota/CodingShit/bestiario/target/release/deps/siphasher-9a80f69a902b7406.d: /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/lib.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/sip.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/sip128.rs
+
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/lib.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/sip.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/sip128.rs:

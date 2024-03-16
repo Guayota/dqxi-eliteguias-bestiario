@@ -1,0 +1,12 @@
+/home/guayota/CodingShit/bestiario/target/debug/deps/libahash-d49f46224cef2424.rmeta: /home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/lib.rs /home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/convert.rs /home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/fallback_hash.rs /home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/operations.rs /home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/random_state.rs /home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/specialize.rs /home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/hash_map.rs /home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/hash_set.rs
+
+/home/guayota/CodingShit/bestiario/target/debug/deps/ahash-d49f46224cef2424.d: /home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/lib.rs /home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/convert.rs /home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/fallback_hash.rs /home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/operations.rs /home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/random_state.rs /home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/specialize.rs /home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/hash_map.rs /home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/hash_set.rs
+
+/home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/lib.rs:
+/home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/convert.rs:
+/home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/fallback_hash.rs:
+/home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/operations.rs:
+/home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/random_state.rs:
+/home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/specialize.rs:
+/home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/hash_map.rs:
+/home/guayota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.3/src/hash_set.rs:

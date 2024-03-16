@@ -1,0 +1,17 @@
+/home/guayota/CodingShit/bestiario/target/debug/deps/cssparser-8bdadd508fc1d053.rmeta: /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/lib.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/macros.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/rules_and_declarations.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/color.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/cow_rc_str.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/from_bytes.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/nth.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/parser.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/serializer.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/unicode_range.rs /home/guayota/CodingShit/bestiario/target/debug/build/cssparser-280831cdd49a7c1b/out/tokenizer.rs
+
+/home/guayota/CodingShit/bestiario/target/debug/deps/cssparser-8bdadd508fc1d053.d: /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/lib.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/macros.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/rules_and_declarations.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/color.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/cow_rc_str.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/from_bytes.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/nth.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/parser.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/serializer.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/unicode_range.rs /home/guayota/CodingShit/bestiario/target/debug/build/cssparser-280831cdd49a7c1b/out/tokenizer.rs
+
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/lib.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/macros.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/rules_and_declarations.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/color.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/cow_rc_str.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/from_bytes.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/nth.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/parser.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/serializer.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.29.6/src/unicode_range.rs:
+/home/guayota/CodingShit/bestiario/target/debug/build/cssparser-280831cdd49a7c1b/out/tokenizer.rs:
+
+# env-dep:OUT_DIR=/home/guayota/CodingShit/bestiario/target/debug/build/cssparser-280831cdd49a7c1b/out

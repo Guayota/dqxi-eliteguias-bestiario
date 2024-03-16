@@ -1,0 +1,18 @@
+/home/guayota/CodingShit/bestiario/target/debug/deps/selectors-18999b7cef207dc2.rmeta: /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/lib.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/attr.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/bloom.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/builder.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/context.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/matching.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/nth_index_cache.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/parser.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/sink.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/tree.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/visitor.rs /home/guayota/CodingShit/bestiario/target/debug/build/selectors-6e9821f376cb3b01/out/ascii_case_insensitive_html_attributes.rs
+
+/home/guayota/CodingShit/bestiario/target/debug/deps/selectors-18999b7cef207dc2.d: /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/lib.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/attr.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/bloom.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/builder.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/context.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/matching.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/nth_index_cache.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/parser.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/sink.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/tree.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/visitor.rs /home/guayota/CodingShit/bestiario/target/debug/build/selectors-6e9821f376cb3b01/out/ascii_case_insensitive_html_attributes.rs
+
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/lib.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/attr.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/bloom.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/builder.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/context.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/matching.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/nth_index_cache.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/parser.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/sink.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/tree.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.24.0/visitor.rs:
+/home/guayota/CodingShit/bestiario/target/debug/build/selectors-6e9821f376cb3b01/out/ascii_case_insensitive_html_attributes.rs:
+
+# env-dep:OUT_DIR=/home/guayota/CodingShit/bestiario/target/debug/build/selectors-6e9821f376cb3b01/out

@@ -1,0 +1,14 @@
+/home/guayota/CodingShit/bestiario/target/debug/deps/indexmap-9aae1da3b16a0aef.rmeta: /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/lib.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/arbitrary.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/macros.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/equivalent.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/mutable_keys.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/util.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map/core.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map/core/raw.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/set.rs
+
+/home/guayota/CodingShit/bestiario/target/debug/deps/indexmap-9aae1da3b16a0aef.d: /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/lib.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/arbitrary.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/macros.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/equivalent.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/mutable_keys.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/util.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map/core.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map/core/raw.rs /home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/set.rs
+
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/lib.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/arbitrary.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/macros.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/equivalent.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/mutable_keys.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/util.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map/core.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map/core/raw.rs:
+/home/guayota/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/set.rs:
